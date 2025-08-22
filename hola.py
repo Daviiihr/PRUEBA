@@ -51,3 +51,7 @@ mi_enemigo = Personaje("Gabox", 8, 8, 8, 80)
 mi_personaje.atacar(mi_enemigo)
 mi_enemigo.atributos()
 
+class pene:
+    pass
+class vaina:
+    pass
